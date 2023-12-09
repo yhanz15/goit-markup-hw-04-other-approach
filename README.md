@@ -1,1 +1,1 @@
-# goit-markup-hw-04-other-approach
+# goit-markup-hw-04
